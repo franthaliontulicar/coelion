@@ -1,0 +1,9 @@
+230944e ignorar htm
+3b13194 ignorar class
+fec5560 ignora class
+593fce6 presentacion
+6cf6c41 Añadidos datos personales
+e4da374 Añadido nombre del profesor al  archivo
+b80b6f2 Archivo prueba.txt creado
+
+
